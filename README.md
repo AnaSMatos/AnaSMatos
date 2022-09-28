@@ -1,7 +1,7 @@
-### Olá! Me chamo Ana Clara, seja bem-vindo(a) ao meu perfil 👋
+### Hey! My name is Ana Clara, welcome to my profile 👋
 
 <div>
-  Sou desenvolvedora FullStack, e aqui você vai encontrar alguns dos meus projetos :)
+  I'm a software engineer, and here you'll find some of my projects :)
 </div>
 <br><br>
 <div>
