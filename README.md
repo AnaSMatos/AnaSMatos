@@ -4,11 +4,11 @@
   I'm a software engineer, and here you'll find some of my projects :)
 </div>
 <br><br>
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaSMatos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSMatos&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+ -->
 <div>
   <br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
